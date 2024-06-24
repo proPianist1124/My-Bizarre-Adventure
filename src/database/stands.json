@@ -1,0 +1,704 @@
+[
+    {
+        "name": "Golden Wind",
+        "health": 150,
+        "attack": 20,
+        "special_moves": [
+            {
+                "name": "Barrage",
+                "damage": -50,
+                "cooldown": 2
+            },
+            {
+                "name": "Life Giver",
+                "damage": 20,
+                "cooldown": 2
+            },
+            {
+                "name": "Life Shot",
+                "damage": -65,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Epic",
+        "image": "golden_wind.png",
+        "series": "Vento Aureo",
+        "description": "Gold Experience is a humanoid Stand that mirrors the slim physique and average height of its user, Giorno.[5] There are curved carvings engraved on the top of its head, which resembles a combat helmet as well as the body of a jewel scarab beetle. It notably has a large arch in the center with five lines emerging from it, segmenting the head into six symmetrical divisions, with the two lines going to the top corners of the arch each having a golden spiral pattern."
+    },
+    {
+        "name": "Star Platinum",
+        "health": 175,
+        "attack": 40,
+        "special_moves": [
+            {
+                "name": "Barrage",
+                "damage": -60,
+                "cooldown": 2
+            },
+            {
+                "name": "Time Stop",
+                "damage": 0,
+                "cooldown": 5
+            }
+        ],
+        "rarity": "Legendary",
+        "image": "star_platinum.png",
+        "series": "Stardust Crusaders",
+        "description": "Star Platinum is a humanoid Stand, resembling a tall, well-built man of similar proportions to Jotaro, if not more muscular. It has been stated to have a somewhat blackish tone.[5] In colored art, its skin is often a hue between purple, blue, green, and small bits of gold. Its face and body have varying colors."
+    },
+    {
+        "name": "Crazy Diamond",
+        "health": 150,
+        "attack": 30,
+        "special_moves": [
+            {
+                "name": "Barrage",
+                "damage": -55,
+                "cooldown": 3
+            },
+            {
+                "name": "Bearing Shot",
+                "damage": -45,
+                "cooldown": 2
+            },
+            {
+                "name": "Wall Block",
+                "damage": 20,
+                "cooldown": 3
+            }
+
+        ],
+        "rarity": "Rare",
+        "image": "crazy_diamond.png",
+        "series": "Diamond is Unbreakable",
+        "description": "Crazy Diamond is a humanoid Stand with a muscular build and tall stature, usually standing at around Josuke's height or taller."
+    },
+    {
+        "name": "Purple Hermit",
+        "health": 90,
+        "attack": 15,
+        "special_moves": [
+            {
+                "name": "Hamon Infused",
+                "damage": 30,
+                "cooldown": 2
+            },
+            {
+                "name": "Vine Slap",
+                "damage": 35,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Common",
+        "image": "purple_hermit.png",
+        "series": "Stardust Crusaders",
+        "description": "Hermit Purple manifests itself as multiple, purple,[2] thorn-covered vines that spawn from Joseph's hands. The vines are strong enough to support his own weight and long enough to bind someone completely. "
+    },
+    {
+        "name": "Killer Queen",
+        "health": 100,
+        "attack": 20,
+        "special_moves": [
+            {
+                "name": "Heart Attack",
+                "damage": 0,
+                "cooldown": 5
+            },
+            {
+                "name": "Coin Toss",
+                "damage": -50,
+                "cooldown": 3
+            }
+            
+        ],
+        "rarity": "Epic",
+        "image": "killer_queen.png",
+        "series": "Diamond is Unbreakable",
+        "description": "Killer Queen is a visibly muscular humanoid Stand about as tall as Kira himself, light in color overall."
+    },
+    {
+        "name": "The Hand",
+        "health": 75,
+        "attack": 20,
+        "special_moves": [
+            {
+                "name": "Hand Slash",
+                "damage": -30,
+                "cooldown": 3
+            },
+            {
+                "name": "Limb Erasure",
+                "damage": -70,
+                "cooldown": 5
+            }
+        ],
+        "rarity": "Rare",
+        "image": "the_hand.png",
+        "series": "Diamond is Unbreakable",
+        "description": "The Hand appears as a humanoid figure typically in attire similar to football pads, though it has several spikes jutting from them. A towel-like object drapes over its shoulders, with a $ symbol on one end and a ¥ symbol on the other – corresponding with Okuyasu's fashion theme of currency symbols. On each side of the Stand's face are blinders that cover its headlight-shaped eyes and limit its vision, a result of Okuyasu's impulsive demeanor.[3] Its right hand has spiderweb-like lines on the inside, along with two bumps on its palm. However, these features on its right hand were not shown until later chapters."
+    },
+    {
+        "name": "Red Hot Chili Pepper",
+        "health": 125,
+        "attack": 25,
+        "special_moves": [
+            {
+                "name": "Speed Punch",
+                "damage": -40,
+                "cooldown": 3
+            },
+            {
+                "name": "Electric Jabs",
+                "damage": -45,
+                "cooldown": 4
+            },
+            {
+                "name": "Pinky Slash",
+                "damage": -30,
+                "cooldown": 2
+            }
+        ],
+        "rarity": "Uncommon",
+        "image": "red_hot_chili_pepper.png",
+        "series": "Diamond is Unbreakable",
+        "description": "Red Hot Chili Pepper appears as a short humanoid with features akin to those of dinosaurs, including a small beak, a long tail, and large, bony spikes that run down its spine. Its head bears a resemblance to that of a Pachycephalosaurus.[4] Its abdomen is scaly, and around its waist is a ring with a loose flap hanging over the crotch, resembling a loincloth. It possesses a radiant glow from the electricity it has drawn in that slowly diminishes the longer it is away from a power source, eventually turning its body the color of rust."
+    },
+    {
+        "name": "Magician's Red",
+        "health": 50,
+        "attack": 100,
+        "special_moves": [
+            {
+                "name": "Cross Fire Hurricane",
+                "damage": -50,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Common",
+        "image": "magicians_red.png",
+        "series": "Stardust Crusaders",
+        "description": "Magician's Red appears as a humanoid figure with an avian head modeled after a phoenix.[1] It has a heavily muscular upper body and its feathered legs are sometimes covered in burning flames. Its arms have claws instead of nails and it wears dark bracelets on both of its wrists. The Stand was originally barefooted, but after Avdol's return, it wears Arabian shoes."
+    },
+    {
+        "name": "Hierophant Green",
+        "health": 100,
+        "attack": 75,
+        "special_moves": [
+            {
+                "name": "Emerald Splash",
+                "damage": -45,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Uncommon",
+        "image": "hierophant_green.png",
+        "series": "Stardust Crusaders",
+        "description": "Hierophant Green is a humanoid Stand of average build clad in several light-colored pieces of armor all over its body with much of its body still exposed. Its armor includes a mask that can be broken to reveal a mouth.[2] Several of Hierophant Green's joints are mechanical, and its eyes are as well. The body is green and covered in a web-like pattern that Jotaro Kujo describes as reminiscent of a shiny melon."
+    },
+    {
+        "name": "The World",
+        "health": 125,
+        "attack": 200,
+        "special_moves": [
+            {
+                "name": "Time Stop",
+                "damage": 0,
+                "cooldown": 5
+            },
+            {
+                "name": "Knife Throws",
+                "damage": -40,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Epic",
+        "image": "the_world.png",
+        "series": "Stardust Crusaders",
+        "description": "The World bears the appearance of a tall, heavily muscular humanoid with a strong resemblance to DIO himself in terms of build and clothing. It wears a headpiece covering its face to below the place of its nose, slanting at a steep angle from the base of its forehead to a peak situated above the rear of its head, leaving the face of an inverted triangle visible to the front, similarly to the Red Crown of Lower Egypt."
+    },
+    {
+        "name": "Silver Chariot",
+        "health": 100,
+        "attack": 10,
+        "special_moves": [
+            {
+                "name": "Million Slash",
+                "damage": -30,
+                "cooldown": 4
+            },
+            {
+                "name": "Rapier Launch",
+                "damage": -45,
+                "cooldown": 10
+            }
+        ],
+        "rarity": "Uncommon",
+        "image": "silver_chariot.png",
+        "series": "Stardust Crusaders",
+        "description": "Hirohiko Araki stated that Silver Chariot's design was created as a combination of a robot with European armor.[2] It is a slightly thin, robotic humanoid. It is usually clad in silver, heavy plate armor all over its body, giving it a bulkier look. This armor also has spiked shoulder pads and elbow pads. Silver Chariot has a distinctive helmet with a jewel embedded in the forehead and several pointed down projections protecting its mouth and cheeks."
+    },
+    {
+        "name": "Hanged Man",
+        "health": 75,
+        "attack": 13,
+        "special_moves": [
+            {
+                "name": "Light Slashes",
+                "damage": -20,
+                "cooldown": 3
+            },
+            {
+                "name": "Backstab",
+                "damage": -45,
+                "cooldown": 5
+            }
+        ],
+        "rarity": "Common",
+        "image": "hanged_man.png",
+        "series": "Stardust Crusaders",
+        "description": "Hanged Man's design reflects that of a mummy with mechanical elements, making it seem less human.[2] Its body is covered in bandages, with half its brain exposed, along with having two right hands as its master does."
+    },
+    {
+        "name": "Cream",
+        "health": 75,
+        "attack": 15,
+        "special_moves": [
+            {
+                "name": "Transformation",
+                "damage": -30,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Common",
+        "image": "cream.png",
+        "series": "Stardust Crusaders",
+        "description": "Cream appears as an exceptionally tall, skull-faced humanoid monster with a mask akin to an executioner's cowl. Two protruding horns are also visible on the mask, and much like Atum and The World, has heart-shaped motifs on its body. When using its ability, Cream takes the form of a moving sphere of emptiness that cuts its way through any objects or people it passes through. This second form is actually a void made by Cream eating itself and Vanilla Ice, like an Ouroboros."
+    },
+    {
+        "name": "Echoes",
+        "health": 75,
+        "attack": 10,
+        "special_moves": [
+            {
+                "name": "Sound Generation",
+                "damage": -20,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Uncommon",
+        "image": "echoes.png",
+        "series": "Diamond is Unbreakable",
+        "description": "ACT1 takes the appearance of a three-sectioned alien larva.[3] Its oversized first section serves as a head and two small shelled arms are attached to it. The head is covered with a shell on top of which a spike is visible, and the face is nearly entirely covered by metallic blinkers, only leaving a small beak visible. The second section is a shelled torso with a dark belly. The third section is equipped with a set of small wheels and a large serpentine tail with a dark underside and a clearer back covered in swirling spots and at whose end is a metallic rattle."
+    },
+    {
+        "name": "Highway Star",
+        "health": 90,
+        "attack": 13,
+        "special_moves": [
+            {
+                "name": "Life Drain",
+                "damage": 0,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Rare",
+        "image": "highway_star.png",
+        "series": "Diamond is Unbreakable",
+        "description": "Highway Star is a muscular humanoid Stand with a dark body that is covered in a light net pattern. It has darker spots running down the middle of its legs, chest and head. The ornament on its chin resembles that of a pharaoh's postiche. Bracelets cover its wrists where the checkered pattern ends and continues from its fingers, along with bracelets on its ankles."
+    },
+    {
+        "name": "Sticky Fingers",
+        "health": 110,
+        "attack": 20,
+        "special_moves": [
+            {
+                "name": "Zipper Punch",
+                "damage": -30,
+                "cooldown": 5
+            },
+            {
+                "name": "Zipper Slash",
+                "damage": -45,
+                "cooldown": 5
+            }
+        ],
+        "rarity": "Uncommon",
+        "image": "sticky_fingers.png",
+        "series": "Vento Aureo",
+        "description": "Sticky Fingers is a humanoid Stand that mirrors the height and build of its user, Bucciarati. Covering the upper half of its face, it wears a helmet adorned with a column of short spikes in the center, resembling a mohawk."
+    },
+    {
+        "name": "Sex Pistols",
+        "health": 50,
+        "attack": 10,
+        "special_moves": [
+            {
+                "name": "Rebound Shot",
+                "damage": -20,
+                "cooldown": 2
+            },
+            {
+                "name": "Accurate Shot",
+                "damage": -30,
+                "cooldown": 2
+            }
+        ],
+        "rarity": "Epic",
+        "image": "sex_pistols.png",
+        "series": "Vento Aureo",
+        "description": "Sex Pistols is a group of six tiny Stands living inside Mista's revolver. They are numbered from 1 to 7, skipping the number 4 due to it being an unlucky number according to Mista. They have teardrop-shaped heads, wide eyes with black outlines and small stripes going outward from the center, and extremely small pupils, some of which appear cross-eyed. Later on, they are depicted with more focused pupils and no radial lines in their eyes."
+    },
+    {
+        "name": "Metallica",
+        "health": 150,
+        "attack": 20,
+        "special_moves": [
+            {
+                "name": "Scissor Cuts",
+                "damage": -50,
+                "cooldown": 3
+            },
+            {
+                "name": "Invisibility",
+                "damage": 0,
+                "cooldown": 3
+            },
+            {
+                "name": "Razor Slice",
+                "damage": -65,
+                "cooldown": 5
+            }
+        ],
+        "rarity": "Legendary",
+        "image": "metallica.png",
+        "series": "Vento Aureo",
+        "description": "Metallica manifests itself inside Risotto's body as a swarm of small metallic beings with stitches across their bodies. Their mouths are shaped as though they are moaning or screaming. When it isn't latching on to Risotto's body, we can see the bottom half of the bodies of the swarm, which has the shape of a tail, much like pop culture ghosts. The Stand's design is based on human cells, red blood cells and the hattifatteners from the Moomin series.[2]"
+    },
+    {
+        "name": "King Crimson",
+        "health": 125,
+        "attack": 20,
+        "special_moves": [
+            {
+                "name": "Epitah",
+                "damage": -55,
+                "cooldown": 4
+            },
+            {
+                "name": "Time Skip",
+                "damage": -50,
+                "cooldown": 3
+            },
+            {
+                "name": "Precognition",
+                "damage": 0,
+                "cooldown": 4
+            }
+        ],
+        "rarity": "Legendary",
+        "image": "king_crimson.png",
+        "series": "Vento Aureo",
+        "description": "King Crimson is a humanoid Stand of a height and build similar to Diavolo's, but tends to look much bigger and taller. Its body is covered by a raised diagonal grid; save for its face, neck, shoulder guards, elbows, hands, abdomen, crotch, knees and feet."
+    },
+    {
+        "name": "Purple Haze",
+        "health": 50,
+        "attack": 10,
+        "special_moves": [
+            {
+                "name": "Killer Virus Infection",
+                "damage": -50,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Uncommon",
+        "image": "purple_haze.png",
+        "series": "Vento Aureo",
+        "description": "Purple Haze is a humanoid Stand with a similar height and build to Fugo's. Its face and body are patterned by horizontal lozenges of alternating shades, and it has spikes along its back. Armor pieces are present on its shoulders, elbows, and knees. The Stand's lips and appendages are loosely stitched, and its eyes have distinct irides with miotic pupils. Adorning its head is a helmet inspired by Roman design,[3] with a transparent visor in the approximate shape of a beak."
+    },
+    {
+        "name": "Stone Free",
+        "health": 125,
+        "attack": 20,
+        "special_moves": [
+            {
+                "name": "Home Run",
+                "damage": -45,
+                "cooldown": 3
+            },
+            {
+                "name": "String Beatdown",
+                "damage": -30,
+                "cooldown": 2
+            }
+        ],
+        "rarity": "Rare",
+        "image": "stone_free.png",
+        "series": "Stone Ocean",
+        "description": "Stone Free is a humanoid Stand of a height and build similar to Jolyne's. It wears what appears to be a pair of sunglasses varying in darkness, obscuring vertically ridged eyes. Four blade-like protrusions run over its head from the top of the jaw to the back of its neck, bordering the sides of both eyes. Cones truncated at a length of one-third the width of its head protrudes from the region of the ears."
+    },
+    {
+        "name": "Whitesnake",
+        "health": 75,
+        "attack": 15,
+        "special_moves": [
+            {
+                "name": "Stand Disk",
+                "damage": 0,
+                "cooldown": 3
+            },
+            {
+                "name": "Memory Disk",
+                "damage": -50,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Epic",
+        "image": "whitesnake.png",
+        "series": "Stone Ocean",
+        "description": "Whitesnake is a humanoid Stand of a height and build similar to Pucci's. It is sparsely clothed in dark leather, donning a piece of mask-like headgear that extends from its absent nose to a point slightly below its scalp, terminating in a series of sharp peaks spanning two-thirds the height of its head in a crown-like arrangement."
+    },
+    {
+        "name": "Weather Report",
+        "health": 125,
+        "attack": 20,
+        "special_moves": [
+            {
+                "name": "Heavy Weather",
+                "damage": -55,
+                "cooldown": 4
+            },
+            {
+                "name": "Snail Transformation",
+                "damage": -30,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Epic",
+        "image": "weather_report.png",
+        "series": "Stone Ocean",
+        "description": "Weather Report takes the form of a muscular humanoid mass of clouds with a pair of eyes that have vertical stripes on them. It is always depicted as being surrounded by thick mist or miniature clouds. Its face possesses a mask-like structure with spikes topping its head. Though a majority of its body lacks identifiable armor or clothing, it has knuckle braces on its hands which is common with many other Close-Range Stands like it. Its feet have wing-like clouds resembling the shoes of Greek god Hermes."
+    },
+    {
+        "name": "Diver Down",
+        "health": 75,
+        "attack": 18,
+        "special_moves": [
+            {
+                "name": "Restructure",
+                "damage": -40,
+                "cooldown": 3
+            },
+            {
+                "name": "Power Storage",
+                "damage": -25,
+                "cooldown": 2
+            }
+        ],
+        "rarity": "Rare",
+        "image": "diver_down.png",
+        "series": "Stone Ocean",
+        "description": "Diver Down appears as a humanoid Stand of average build attired with a highly stylized set of scuba gear to aesthetically resemble a diver.[2] Its body has distinctive \"D\"-like symbols on its forehead, pecs, shoulders, and knees. It has three dots on each side of its head as eyes and a thin vertical opening starting at its chin up to its nose."
+    },
+    {
+        "name": "Kiss",
+        "health": 75,
+        "attack": 13,
+        "special_moves": [
+            {
+                "name": "Duplicating Stickers",
+                "damage": -25,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Common",
+        "image": "kiss.png",
+        "series": "Stone Ocean",
+        "description": "Kiss is a humanoid Stand with an athletic build, similar to Ermes's. It wears a dark jumpsuit along with light shoulder pads, knee pads, and gloves sharing a metallic texture. Along the middle of its torso is a vertical studded metallic slab engraved with its name, \"KISS\", and the letters are contained in separate circles."
+    },
+    {
+        "name": "Tusk I",
+        "health": 5,
+        "attack": 1,
+        "special_moves": [
+            {
+                "name": "Nail Spin",
+                "damage": -10,
+                "cooldown": 2
+            }
+        ],
+        "rarity": "Legendary",
+        "image": "tusk_i.png",
+        "series": "Steel Ball Run",
+        "description": "Initially named \"Tusk\" as it was the first form that Johnny sees, Tusk ACT1 is the Stand's base form. It is referred to as the guardian of the Left Arm of the Saint's Corpse.[2] ACT1 resembles a small, neotenous animal. Its head is of equal or slightly greater size than its body, and it floats with two short, vague, and inarticulate arms and one such leg. Its posterior is marked somewhat irregularly by small stars, behind which dark circles radiate to their points; while four tendrils droop from the base of its trunk to the approximate length of its leg, bearing heart shapes. On its head, it bears two long, mammalian ears; small, reflective black eyes, under a brow of a troubled angle; a large star at the top of its forehead, behind which a dark circle radiates to its points, and from the center of which a string links with the tip of a cone fastened to the region of its nose. Eight wavering vestiges emanate from its head laterally: Two above; four from its sides, the lower of which, at its cheeks, are also surrounded by a dark circle; and on each side of its chin. It was designed with an axolotl in mind.[3]"
+    },
+    {
+        "name": "Ball Breaker",
+        "health": 150,
+        "attack": 25,
+        "special_moves": [
+            {
+                "name": "Golden Spin",
+                "damage": -55,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Epic",
+        "image": "ball_breaker.png",
+        "series": "Steel Ball Run",
+        "description": "Ball Breaker is a relatively small Stand, roughly the size of the Steel Ball it originates from. It's vaguely humanoid in shape, with a hunched back and hoof-like feet. There are several circles embedded in a random formation on its face with its body studded similarly. Its most prominent feature is a large brim circling the back of its head, ending in two semicircles at the front, which both form golden spirals. Ball Breaker is usually surrounded by a cloud of energy reminiscent of electrostatic discharge."
+    },
+    {
+        "name": "Dirty Deeds Done Dirt Cheap",
+        "health": 150,
+        "attack": 30,
+        "special_moves": [
+            {
+                "name": "Clones",
+                "damage": -45,
+                "cooldown": 3
+            },
+            {
+                "name": "Clone Victim",
+                "damage": -65,
+                "cooldown": 6
+            },
+            {
+                "name": "Clone Switch",
+                "damage": 0,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Legendary",
+        "image": "dirty_deeds_done_dirt_cheap.png",
+        "series": "Steel Ball Run",
+        "description": "D4C has a humanoid form with large, upright horns that somewhat resemble the ears of a leporidae; a masked mandible, and a light body lined by an almost unbroken seam or trim. It's designed after the image of leather being stitched together, like on a baseball.[2] Under its brow, its eyes appear to emote a cold gaze."
+    },
+    {
+        "name": "Catch the Rainbow",
+        "health": 100,
+        "attack": 20,
+        "special_moves": [
+            {
+            "name": "Rain Deflection",
+            "damage": 0,
+            "cooldown": 3
+            },
+            {
+                "name": "Rain Penetration",
+                "damage": -60,
+                "cooldown": 5
+            }
+        ],
+        "rarity": "Epic",
+        "image": "catch_the_rainbow.png",
+        "series": "Steel Ball Run",
+        "description": "Catch the Rainbow takes the form of a mask worn by Blackmore. It has a prominent brow ridge above its eye holes, no nose, and the bottom has five vertically long triangular slits, dotted by five holes above them."
+    },
+    {
+        "name": "The World Alternate Universe",
+        "health": 150,
+        "attack": 40,
+        "special_moves": [
+            {
+                "name": "Time Stop",
+                "damage": 0,
+                "cooldown": 5
+            },
+            {
+                "name": "Knife Throws",
+                "damage": -45,
+                "cooldown": 3
+            }
+        ],
+        "rarity": "Epic",
+        "image": "the_world_alternate_universe.png",
+        "series": "Steel Ball Run",
+        "description": "THE WORLD is a humanoid Stand with a build similar to Diego's and design similar to its alternate counterpart. It wears a headpiece covering its face to below the place of its nose, slanting at a steep angle from the base of its forehead to a peak situated above the rear of its head by about half its height, leaving the face of an inverted triangle visible to the front; somewhat similar to the Red Crown of Lower Egypt."
+    },
+    {
+        "name": "Soft & Wet",
+        "health": 175,
+        "attack": 45,
+        "special_moves": [
+            {
+                "name": "Shovel Beatdown",
+                "damage": -60,
+                "cooldown": 3
+            },
+            {
+                "name": "Bubble Generation",
+                "damage": -65,
+                "cooldown": 5
+            },
+            {
+                "name": "Plunder",
+                "damage": -50,
+                "cooldown": 2
+            }
+
+        ],
+        "rarity": "Legendary",
+        "image": "soft_and_wet.png",
+        "series": "JoJolion",
+        "description": "Soft & Wet is a humanoid Stand of a streamlined, robotic form, light in color, and similar in height to Josuke."
+    },
+    {
+        "name": "The Wonder of U",
+        "health": 200,
+        "attack": 50,
+        "special_moves": [
+            {
+                "name": "Calamity Manipulation",
+                "damage": -80,
+                "cooldown": 7
+            },
+            {
+                "name": "Post-Mortem Persistence",
+                "damage": -55,
+                "cooldown": 4
+            }
+        ],
+        "rarity": "Legendary",
+        "image": "the_wonder_of_u.png",
+        "series": "JoJolion",
+        "description": "Wonder of U is an artificial humanoid Stand with robotic features. It has a large torso but thin, tubular arms, with several articulations on its arms and waist. Its entire body is covered with circular ridges that are evenly spaced. It also has long curved blades on its wrists. Its head has a flattened ovoid shape and a face with two coin-like eyes and more circular ridges. In early appearances of it, the eyes were drawn with triangles making them appear like suns, similar to the sun motif found on Toru's outfit. The entire face is framed by two pairs of metallic sticks behind its eyes."
+    },
+    {
+        "name": "November Rain",
+        "health": 175,
+        "attack": 50,
+        "special_moves": [
+            {
+                "name": "Heavy Rain",
+                "damage": -70,
+                "cooldown": 5
+            }
+        ],
+        "rarity": "Legendary",
+        "image": "november_rain.png",
+        "series": "JoJolands",
+        "description": "November Rain has a humanoid head and broad torso attached to a downward-pointing cone. Its face and neck are heavily creased with lines converging in the center of its face. It has a light, concave plate of armor covering the center of its face and neck, serrated at the top of its head. The armor is curved inward at its eyes and neck to leave them exposed, giving November Rain an angry expression. The armor also has a slit on each side below its eyes, small holes beneath the slits near its chin, and a single hole on its forehead. Oval-shaped armor covers each side of its head, split into three pieces. The irises of its eyes are split by vertical lines."
+    },
+    {
+        "name": "Yas Queen",
+        "health": 500,
+        "attack": 500,
+        "special_moves": [
+            {
+                "name": "Pooh Poop",
+                "damage": -10000,
+                "cooldown": 3
+            },
+            {
+                "name": "Pooh Goes Rip",
+                "damage": -100,
+                "cooldown": 0
+            }
+        ],
+        "rarity": "Mythical",
+        "image": "yas_queen.png",
+        "series": "Custom",
+        "description": "Pooh goes bang against enemy."
+    }
+]
